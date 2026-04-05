@@ -1,0 +1,277 @@
+[
+  {
+    "image": "./dataset/val\\a\\150 (2).png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\253.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\7007.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\7010.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\7020.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\7076.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\7112.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\a\\8006.png",
+    "actual": "a",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\b\\127.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\140 (2).png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\221.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\241.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\25.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\29.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\308 (2).png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\355.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\381 (2).png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\381.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\390.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\429.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\44 (2).png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\442.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\457.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\503.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\56.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\600.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\605.png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\b\\7006 (2).png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\7120.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\7134 (2).png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\7136.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\7137.png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\7163 (2).png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\8032 (2).png",
+    "actual": "b",
+    "predicted": "a"
+  },
+  {
+    "image": "./dataset/val\\b\\96 (2).png",
+    "actual": "b",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\c\\143.png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\173.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\c\\220.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\c\\231 (2).png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\429.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\c\\510.png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\587.png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\8038 (2).png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\8052.png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\8066.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\c\\8070.png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\8071 (2).png",
+    "actual": "c",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\c\\9060.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\c\\9188.png",
+    "actual": "c",
+    "predicted": "d"
+  },
+  {
+    "image": "./dataset/val\\d\\255.png",
+    "actual": "d",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\d\\256.png",
+    "actual": "d",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\d\\37 (2).png",
+    "actual": "d",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\d\\8073 (3).png",
+    "actual": "d",
+    "predicted": "c"
+  },
+  {
+    "image": "./dataset/val\\d\\8131.png",
+    "actual": "d",
+    "predicted": "b"
+  },
+  {
+    "image": "./dataset/val\\d\\9090.png",
+    "actual": "d",
+    "predicted": "c"
+  }
+]

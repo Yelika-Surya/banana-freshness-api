@@ -1,0 +1,13 @@
+dataset/
+new_dataset/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+half_ripe_downloads/
+models/training_curves.png
+models/confusion_matrix.png
+models/misclassified.json
+models/metadata.json
+models/sort_log_*.json
+*.log

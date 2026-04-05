@@ -1,0 +1,40 @@
+{
+  "classes": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ],
+  "class_labels": {
+    "a": "Unripe",
+    "b": "Overripe",
+    "c": "Ripe",
+    "d": "Rotten"
+  },
+  "days_map": {
+    "a": {
+      "min": 5,
+      "max": 8,
+      "mid": 7
+    },
+    "b": {
+      "min": 2,
+      "max": 3,
+      "mid": 2
+    },
+    "c": {
+      "min": 2,
+      "max": 4,
+      "mid": 3
+    },
+    "d": {
+      "min": 0,
+      "max": 0,
+      "mid": 0
+    }
+  },
+  "img_size": 224,
+  "device": "cuda",
+  "best_val_acc": 0.988,
+  "test_acc": 0.9818
+}
